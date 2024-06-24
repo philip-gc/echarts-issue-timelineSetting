@@ -51,14 +51,14 @@ option = {
   ],
   series: [
     {
-      type: 'bar', xAxisIndex: 0, yxisInex: 0, 
+      type: 'bar', xAxisIndex: 0, yxisIndex: 0, 
     },
     {
-      type: 'scatter', xAxisIndex: 0, yxisInex: 0,
+      type: 'scatter', xAxisIndex: 0, yxisIndex: 0,
     },
     {
       type: '',
-      xAxisIndex: 1, yxisInex: 1
+      xAxisIndex: 1, yxisIndex: 1
     }
   ],
 
