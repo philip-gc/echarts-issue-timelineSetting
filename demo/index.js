@@ -39,7 +39,7 @@ option = {
   },
   grid: [
     {left: '2%', width: '40%'},
-    {right: '2%', width: '40%'},
+    {right: '2%', width: '40%'}, // This grid is for another unrelated graph, just donnot care
   ],
   xAxis: [
     {gridIndex: 0, type: 'value'},
